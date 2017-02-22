@@ -1,0 +1,61 @@
+
+body {
+  background-color: #1a1a1a;
+}
+
+h2, h4 {
+  text-align: center;
+  color: white;
+  font-family: 'Cinzel', serif;
+  font-weight: bold;
+}
+
+.header {
+  margin-bottom: 115px;
+  margin-top: 115px;
+  padding-top: 100px;
+  background-color:darkgray;
+  background-image:
+  radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+  radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+  radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+  radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+  background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  /*http://lea.verou.me/css3patterns/#starry-night*/
+}
+
+.portdiv, .about, .ed, .skills, .links {
+  background-color: darkkhaki;
+  margin: 0 auto;
+  text-align: center;
+  border: 2px solid white;
+}
+
+.port {
+  padding-bottom: 50px
+}
+
+p {
+  font-size: 20px;
+  color: white;
+  font-family: 'Cabin', sans-serif;
+}
+
+img {
+  height: 300px;
+  width: 500px;
+border: 2px solid white;
+}
+
+a {
+  color: white;
+}
+
+/*icon attribution flaticon.com*/
+/*<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>*/
+/*
+.hyperlink {
+  height: 15px;
+  width: 15px;
+}*/
