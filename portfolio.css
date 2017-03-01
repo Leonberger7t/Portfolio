@@ -6,8 +6,7 @@ body {
 h2, h4 {
   text-align: center;
   color: white;
-  font-family: 'Cinzel', serif;
-  font-weight: bold;
+  font-family: 'Lobster', cursive;
 }
 
 .header {
@@ -15,13 +14,13 @@ h2, h4 {
   margin-top: 115px;
   padding-top: 100px;
   background-color:darkgray;
-  background-image:
-  radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+  background-image: url("images/waterfall1.jpg");
+  /*radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
   radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
   radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
   radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
   background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px;
-  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
+  background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;*/
   /*http://lea.verou.me/css3patterns/#starry-night*/
 }
 
@@ -30,6 +29,7 @@ h2, h4 {
   margin: 0 auto;
   text-align: center;
   border: 2px solid white;
+  font-family: 'Lobster', cursive;
 }
 
 .port {
